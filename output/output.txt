@@ -1,1 +1,17 @@
+Recolhecimento de imagens 
 
+1- Letra da musica Pais e filhos -Legião Urbana. 
+
+Selecionei apenas um trecho da música 'Pais e Filhos' e pedi uma análise sobre seu significado. 
+Para minha surpresa, a ferramenta não só identificou o tema da canção, mas também retornou o 
+nome do compositor, o estilo musical e a abordagem da letra. Ainda mais impressionante foi
+o fato de que, mesmo sem eu ter enviado a música completa, ela conseguiu contextualizar e 
+apresentar a letra inteira com precisão. Essa capacidade de interpretar e conectar informações 
+a partir de um pequeno trecho foi o que mais me chamou a atenção!
+
+
+2 - Identificação de raça de cachorro.
+
+Enviei a foto de um cachorro e solicitei a identificação da raça. A ferramenta 
+não apenas acertou a raça com precisão, mas também forneceu uma curiosidade 
+interessante sobre ela.
